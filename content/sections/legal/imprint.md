@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Amadou MAMANE<br />
+114 Avenue de la republique<br />
+94300, Vincennes<br />
+FRANCE
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>mamanesarki@yahoo.fr</u>
 
 ---
 

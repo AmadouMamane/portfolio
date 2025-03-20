@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hey",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Amadou, a result-oriented Data Scientist specialized in Machine Learning, Deep learning and Big Data Technologies.",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "A detail-driven professional with experience across various sectors including automotive, AI, and insurance, equipped with extensive expertise in developing and deploying data-driven solutions to optimize business processes and uncover ",
+    "highlight": "actionable insights",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Connect with me on various social media platforms below.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
